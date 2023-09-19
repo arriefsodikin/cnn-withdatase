@@ -1,1 +1,1 @@
-# CNN-chatbot
+# CNN-clasifikasi text
